@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chương trình đầu tiên</string>
+    <string name="btnOK">Đồng ý</string>
+    <string name="txtInput">Nhập dữ liệu</string>
+</resources>
